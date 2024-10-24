@@ -12,6 +12,7 @@ Teste as classes criando vários objetos
 
 jdk - 17.0.11_windows Eclipse IDE for Java Developers - 2024 -12
 
+imagem_2024-10-23_231415685.png
 
 Dar exemplos 🔧 1. Instalar o download do JDK 17 2. Instalar o Elipse IDE for Java Developers 3. Abrir o Eclipse 4. Ir até window -> Preferences -> Java -> Installed JREs 5. Adicionar JDK 17a lista de ambientes JRE
 
