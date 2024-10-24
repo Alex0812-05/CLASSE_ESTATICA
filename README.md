@@ -1,12 +1,17 @@
-Projeto utilizando Java, com 1 classe se referindo a Pessoa e a outra como Principal para executar o projeto.
+Projeto utilizando Java, com 1 classe se referindo ao Conversor de Unidades e a outra como Principal para executar o projeto.
 
-🚀 Começando Uma empresa possui como clientes pessoas físicas e jurídicas. Uma pessoa física possui nome, cpf, endereço e e-mail, enquanto uma pessoa jurídica possui nome, cnpj, endereço e email.
+🚀 Tema: Biblioteca de Conversões
 
-Há ainda a necessidade de cadastrar seus funcionários, onde cada funcionário possui nome, cpf, endereço e salário.
+Imagine que você está desenvolvendo um sistema para conversões de unidades, como temperatura, comprimento e massa. Sua tarefa é criar uma classe estática chamada ConversorUnidades que contenha métodos para realizar algumas conversões importantes.
 
-Crie classes adequadas para cada necessidade.
+Enunciado:
 
-Teste as classes criando vários objetos
+Crie uma classe estática chamada ConversorUnidades que deve conter os seguintes métodos:
+
+celsiusParaFahrenheit(double celsius): converte uma temperatura em Celsius para Fahrenheit.
+quilometrosParaMilhas(double quilometros): converte uma distância em quilômetros para milhas.
+gramasParaLibras(double gramas): converte uma massa em gramas para libras.
+Após criar a classe, implemente uma classe principal (Main) que chame cada um dos métodos da classe ConversorUnidades e exiba o resultado no console.
 
 📋 Pré-requisitos
 
@@ -16,7 +21,7 @@ imagem_2024-10-23_231415685.png
 
 Dar exemplos 🔧 1. Instalar o download do JDK 17 2. Instalar o Elipse IDE for Java Developers 3. Abrir o Eclipse 4. Ir até window -> Preferences -> Java -> Installed JREs 5. Adicionar JDK 17a lista de ambientes JRE
 
-Explicação de como deve ser utilizado o projeto 🛠️ Utiliza a Classe Pessoa, utiliza-se os construtores para saber as informações do problema e e getters e setters do programa.
+Explicação de como deve ser utilizado o projeto 🛠️ Utiliza a Classe Conversor de Unidades, mostrando a conversão das temperaturas Celsius em Fahrenheit, quilometros para milhas e gramas para libras. Utiliza-se tambem a classe principal para rodar o programa.
 
 Ferramentas utilizadas e bibliotecas
 
@@ -24,5 +29,5 @@ IDE Eclipse 📌 Versão Eclipse IDE for Java Developers - 2024-12
 
 Versão 1.0 caso seja atualizado manter a descrição inicial e inserir uma nova linha com descrição da atualização. Versão 1.1 - Fatoração data 09/09/24 ✒️ Autores
 
-Alexandre Campos - Etapa 1 HERANÇA - Atividade individual Lista de Exercícios - Etapa 1
+Alexandre Campos - Etapa CLASSE ESTÁTICA - Atividade individual Lista de Exercícios - Etapa CLASSE ESTÁTICA
 
